@@ -1,4 +1,8 @@
 # conhost_example
+
+
+NOTE: read this in the raw so the code section appears correctly
+
 This is just an example of how to have a batch file that reloads itself using conhost to get the original cmd window in Windows 11.
 
 Reason: Windows 11 Terminal window is too big, and is not resizable without screwing up the layout of your batch file menus

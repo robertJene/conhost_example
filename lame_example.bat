@@ -1,4 +1,5 @@
 @ECHO OFF
+cls
 ECHO this is a lame example
 ECHO[
 ECHO 1. menu option with a long name     A. menu option with a long name     J. menu option with a long name
